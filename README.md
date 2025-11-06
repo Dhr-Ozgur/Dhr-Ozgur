@@ -31,6 +31,9 @@ Here are a few projects I’ve been working on — you can find more on my profi
 - 🎮 [**Safe Click Game**](https://github.com/dhr-ozgur/safe-click-game) — A gamified learning experience for online safety  
 - 🌐 [**Waakzaam Weten Platform**](https://github.com/dhr-ozgur/waakzaam-weten-platform) — Awareness platform for digital resilience  
 - 🧪 [**Medexa Crisis Forge**](https://github.com/dhr-ozgur/medexa-crisis-forge) — A simulated environment for crisis response  
+- 🤖 [**AI CMDB Dashboard**](https://github.com/dhr-ozgur/ai-cmdb-dashboard) —  
+  A local network asset management and monitoring system powered by AI analysis.  
+  Scans your local network, maps connected devices, and generates security reports automatically.  
 
 ---
 
@@ -39,3 +42,24 @@ Here are a few projects I’ve been working on — you can find more on my profi
 
 ---
 
+## 🧩 AI CMDB Dashboard — Project Overview
+
+**AI CMDB Dashboard** is a locally hosted system for **network visibility and AI-driven risk analysis**.  
+It combines FastAPI (backend), Streamlit (dashboard), and local AI logic for privacy-friendly asset management.
+
+### ✨ Key Features
+- 🔍 Network scanning via Nmap / ARP / Ping  
+- 📡 Device inventory with MAC vendor lookup  
+- 📊 AI-assisted risk analysis (local processing, no cloud)  
+- 🧾 PDF report generation with recommendations  
+- 🩺 Real-time monitoring of device availability  
+
+### 🛠️ Tech Stack
+`Python` · `FastAPI` · `Streamlit` · `ReportLab` · `SQLite` · `Local AI`
+
+### 📘 Repository
+👉 [github.com/Dhr-Ozgur/ai-cmdb-dashboard](https://github.com/Dhr-Ozgur/ai-cmdb-dashboard)
+
+---
+
+*© 2025 Özgür — Exploring cybersecurity through awareness, data, and AI.*
