@@ -42,7 +42,7 @@ Here are a few projects I’ve been working on - you can find more on my profile
 
 ---
 
-## 🧩 AI CMDB Dashboard — Project Overview
+## 🧩 AI CMDB Dashboard - Project Overview
 
 **AI CMDB Dashboard** is a locally hosted system for **network visibility and AI-driven risk analysis**.  
 It combines FastAPI (backend), Streamlit (dashboard), and local AI logic for privacy-friendly asset management.
