@@ -31,8 +31,8 @@ Here are selected projects reflecting my work in cybersecurity, system design, a
 A locally hosted network asset management and monitoring system with AI-assisted risk analysis.
 Scans the local network (Nmap / ARP / Ping), maps connected devices, performs MAC vendor lookup, and generates structured security reports.
 
-🧾 Dual CV – Bilingual CV Builder
-A modern English–Dutch CV and cover letter builder with structured data modeling and clean A4 PDF export.
+🧾 Dual CV – CV & Cover Letter Builder (EN/NL) 
+Bilingual job application builder for creating structured CVs and motivation letters in English or Dutch, with live preview and clean A4 PDF export.
 
 📊 Threat Intelligence Dashboard
 A security-focused data visualization dashboard presenting structured threat intelligence insights.
@@ -53,13 +53,13 @@ A simulated crisis-response environment modeling structured incident handling.
 
 ## 🌍 Live Demos
 
-🧾 Dual CV – Bilingual CV Builder
-https://dual-cv.lovable.app/dashboard
-English–Dutch CV builder with live preview and A4 PDF export.
 
-🧩 Phishing Awareness Project
+Dual CV – CV Builder (EN/NL)
+https://dual-cv.lovable.app/dashboard
+
+Phishing Awareness Training
 https://dhr-ozgur.github.io/awareness-training/
-Interactive phishing awareness landing page.
+
 ---
 
 ## 🧩 AI CMDB Dashboard - Project Overview
