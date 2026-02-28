@@ -34,6 +34,9 @@ Scans the local network (Nmap / ARP / Ping), maps connected devices, performs MA
 🧾 Dual CV – CV & Cover Letter Builder (EN/NL) 
 Bilingual job application builder for creating structured CVs and motivation letters in English or Dutch, with live preview and clean A4 PDF export.
 
+🧰 Toolbox – Multilingual Mini Tools Platform (TR/NL/EN) 
+Browser-based modular tool platform featuring small utilities like coin flip, dice roll, and E-code lookup, built with shared design, centralized settings, and automatic language switching.
+
 📊 Threat Intelligence Dashboard
 A security-focused data visualization dashboard presenting structured threat intelligence insights.
 
