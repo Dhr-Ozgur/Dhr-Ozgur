@@ -63,6 +63,9 @@ https://dual-cv.lovable.app/dashboard
 Phishing Awareness Training
 https://dhr-ozgur.github.io/awareness-training/
 
+Toolbox – Multilingual Mini Tools Platform (TR/NL/EN)
+https://gereedschaphub.lovable.app/
+
 ---
 
 ## 🧩 AI CMDB Dashboard - Project Overview
