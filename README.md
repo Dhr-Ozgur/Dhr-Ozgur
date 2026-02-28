@@ -24,22 +24,53 @@ That’s why I enjoy working on awareness-driven and educational cybersecurity p
 ---
 
 ## 🚀 Featured Projects
-Here are a few projects I’ve been working on - you can find more on my profile.
 
-- 🧩 [**Awareness Training**](https://github.com/dhr-ozgur/awareness-training)  A phishing awareness landing page (GitHub Pages)  
-- 📊 [**Threat Intelligence Dashboard**](https://github.com/dhr-ozgur/threat-intelligence-dashboard-secure)  Data visualization for security insights  
-- 🎮 [**Safe Click Game**](https://github.com/dhr-ozgur/safe-click-game)  A gamified learning experience for online safety  
-- 🌐 [**Waakzaam Weten Platform**](https://github.com/dhr-ozgur/waakzaam-weten-platform) Awareness platform for digital resilience  
-- 🧪 [**Medexa Crisis Forge**](https://github.com/dhr-ozgur/medexa-crisis-forge)  A simulated environment for crisis response  
-- 🤖 [**AI CMDB Dashboard**](https://github.com/dhr-ozgur/ai-cmdb-dashboard)   
-  A local network asset management and monitoring system powered by AI analysis.  
-  Scans your local network, maps connected devices, and generates security reports automatically.  
+Here are selected projects reflecting my work in cybersecurity, system design, and user-focused applications.
+
+🤖 AI CMDB Dashboard
+
+A locally hosted network asset management and monitoring system with AI-assisted risk analysis.
+Scans the local network (Nmap / ARP / Ping), maps connected devices, performs MAC vendor lookup, and generates structured security reports.
+
+🧾 Dual CV – Bilingual CV Builder
+🌍 Live: https://dual-cv.lovable.app/dashboard
+
+A modern English–Dutch CV and cover letter builder with structured data modeling and clean A4 PDF export.
+
+📊 Threat Intelligence Dashboard
+
+A security-focused data visualization dashboard presenting structured threat intelligence insights.
+
+🧩 Awareness Training
+
+A phishing awareness landing page simulating real-world social engineering scenarios.
+
+🎮 Safe Click Game
+
+An interactive learning experience teaching safe online behavior through gamified scenarios.
+
+🌐 Waakzaam Weten Platform
+
+An awareness-driven platform focused on strengthening digital resilience.
+
+🧪 Medexa Crisis Forge
+
+A simulated crisis-response environment modeling structured incident handling.
+  
 
 ---
 
-## 🌍 Live Demo
-👉 [Phishing Awareness Project](https://dhr-ozgur.github.io/awareness-training/)
+## 🌍 Live Demos
 
+🧾 Dual CV – Bilingual CV Builder
+https://dual-cv.lovable.app/dashboard
+
+English–Dutch CV builder with live preview and A4 PDF export.
+
+🧩 Phishing Awareness Project
+https://dhr-ozgur.github.io/awareness-training/
+
+Interactive phishing awareness landing page.
 ---
 
 ## 🧩 AI CMDB Dashboard - Project Overview
