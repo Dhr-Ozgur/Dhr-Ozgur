@@ -58,8 +58,6 @@ A simulated crisis-response environment modeling structured incident handling.
 
 - 🧾 [Dual CV – CV & Cover Letter Builder (EN/NL)](https://dual-cv.lovable.app/dashboard)
 
-- 🧰 [Toolbox – Multilingual Mini Tools Platform (TR/NL/EN)](https://gereedschaphub.lovable.app/)
-
 - 🧠 [Medexa Diagnostics – Data Breach Crisis Simulation](https://medexa-crisis-forge.lovable.app)
 
 - 🧩 [Phishing Awareness Training](https://dhr-ozgur.github.io/awareness-training/)
