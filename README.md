@@ -56,7 +56,7 @@ A simulated crisis-response environment modeling structured incident handling.
 
 ## 🌍 Live Demos
 
-- 🧾 [Dual CV – CV & Cover Letter Builder (EN/NL)](https://dual-cv.lovable.app/dashboard)
+- 🧾 [Dual CV – CV & Cover Letter Builder (EN/NL)](https://sollicitatiekit.netlify.app)
 
 - 🧠 [Medexa Diagnostics – Data Breach Crisis Simulation](https://medexa-crisis-forge.lovable.app)
 
