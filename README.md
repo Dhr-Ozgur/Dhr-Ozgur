@@ -31,8 +31,7 @@ Here are selected projects reflecting my work in cybersecurity, system design, a
 A locally hosted network asset management and monitoring system with AI-assisted risk analysis.
 Scans the local network (Nmap / ARP / Ping), maps connected devices, performs MAC vendor lookup, and generates structured security reports.
 
-🧾 Dual CV – CV & Cover Letter Builder (EN/NL) 
-Bilingual job application builder for creating structured CVs and motivation letters in English or Dutch, with live preview and clean A4 PDF export.
+🧾  Sollicitatiekit - Free bilingual job application tool for the Dutch market. Build a professional CV and cover letter in English or Dutch, customize the layout, and export a clean A4 PDF in seconds.
 
 🧰 Toolbox – Multilingual Mini Tools Platform (TR/NL/EN) 
 Browser-based modular tool platform featuring small utilities like coin flip, dice roll, and E-code lookup, built with shared design, centralized settings, and automatic language switching.
@@ -56,7 +55,7 @@ A simulated crisis-response environment modeling structured incident handling.
 
 ## 🌍 Live Demos
 
-- 🧾 [Dual CV – CV & Cover Letter Builder (EN/NL)](https://sollicitatiekit.netlify.app)
+- 🧾 [Sollicitatiekit](https://sollicitatiekit.netlify.app)
 
 - 🧠 [Medexa Diagnostics – Data Breach Crisis Simulation](https://medexa-crisis-forge.lovable.app)
 
